@@ -1,0 +1,17 @@
+
+# <gidilenYer> gidilen yer ve <gidilecekYer> gidilecek yer arasi ucuslar secilir
+* "departurePointInput" li elementi bul temizle ve <gidilenYer> degerini yaz
+* Enter tusuna bas
+* Elementine tikla "arrivalPointButton"
+* "arrivalPointInput" li elementi bul temizle ve <gidilecekYer> degerini yaz
+* Enter tusuna bas
+
+# Cerezler kabul edilir
+* Elementine tikla "CookiesOk"
+
+# Ucus kalkis saati 10:00 - 18:00 secilir
+* Slider baslangic konumunu "42" olarak ayarla
+* "1" saniye bekle
+* İkinci slider handle'ini yuzde "35" konumuna kaydir
+* "2" saniye bekle
+

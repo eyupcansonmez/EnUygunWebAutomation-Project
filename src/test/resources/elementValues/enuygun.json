@@ -1,0 +1,53 @@
+[
+  {
+    "key": "departurePointButton",
+    "value": "[data-testid='flight-origin-label']",
+    "type": "css"
+  },{
+    "key": "departurePointInput",
+    "value": "[data-testid='endesign-flight-origin-autosuggestion-input']",
+    "type": "css"
+  },{
+    "key": "arrivalPointButton",
+    "value": "[data-testid='flight-destination-label']\n",
+    "type": "css"
+  },{
+    "key": "arrivalPointInput",
+    "value": "[data-testid='endesign-flight-destination-autosuggestion-input']",
+    "type": "css"
+  },
+  {
+    "key": "submitButton",
+    "value": "[data-testid='enuygun-homepage-flight-submitButton']",
+    "type": "css"
+  },{
+    "key": "departureArrivalTimes",
+    "value": "div.ctx-filter-departure-return-time.card-header > span.card-title",
+    "type": "css"
+  },
+  {
+    "key" : "roundTripButton",
+    "value" : "//*[@data-testid=\"search-round-trip-text\"]",
+    "type" : "xpath"
+  },
+  {
+    "key" : "timeCheck",
+    "value" : "//div[@class='filter-slider-content' and contains(text(), '10:00 ile 18:00 arası')]",
+    "type" : "xpath"
+  },
+  {
+    "key" : "CookiesOk",
+    "value" : "onetrust-accept-btn-handler",
+    "type" : "id"
+  },
+  {
+    "key" : "airlines",
+    "value" : "div.ctx-filter-airline.card-header > span.card-title",
+    "type" : "css"
+  },
+  {
+    "key" : "THY",
+    "value" : "span.search__filter_airlines-TK.--span-3\n",
+    "type" : "css"
+  }
+]
