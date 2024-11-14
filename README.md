@@ -31,7 +31,7 @@ Bu proje, uçuş rezervasyon sisteminin çeşitli yönlerini otomatikleştirmeyi
 - **Dil**: Java
 - **Framework**: Gauge
 - **Bağımlılık Yönetimi**: Maven
-- **Sürekli Entegrasyon**: Jenkins, Git
+- **Sürekli Entegrasyon**: Git
 
 ### Test Senaryoları
 
